@@ -12,5 +12,5 @@ sudo ln -s ~/Documentos/php-crud /var/www/html/php-crud
 and the list the folders:
 ls -l /var/www/html
 
-the proyect final or localhost is here:
+🌐 the proyect final or localhost is here:
 http://localhost/php-crud/public/
